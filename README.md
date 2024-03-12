@@ -53,3 +53,6 @@ To clean up:
 ```
 docker compose down
 ```
+
+### Screenshot of running app
+![Alt text](https://github.com/gpalve/retail-shop-ui/blob/main/retailshop-ui-screenshot.jpg?raw=true)https://github.com/gpalve/retail-shop-ui/blob/main/retailshop-ui-screenshot.jpg?raw=true)
